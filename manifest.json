@@ -1,0 +1,7 @@
+{
+    "name": "CovidSearch",
+    "description": "Extension that provides a location's covid guidelines",
+    "version": "1.0",
+    "manifest_version": 3
+  }
+
